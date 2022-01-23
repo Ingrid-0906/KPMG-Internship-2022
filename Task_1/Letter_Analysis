@@ -1,0 +1,17 @@
+Subject:
+
+Subject:
+Data Quality Analysis of Sprocket Central Pty Ltd. Datasets
+
+Hey,
+
+I have concluded the analysis on data from Sprocket Central and the four datasets pointed some strutucture or human issues that must be fixed.
+The most important aspect was the fact that some fileds like 'product_first_sold_date' in Transactions dataset is in wrong type data and in New Customer List, 4 columns do not have name even the type data is correct, I could not identify what was it about.
+Some fields in both datasets are empty and some had been inputed wrongly.
+In general, the data is not so good to analysis as it is and the issues are clearly due human mistakes which can be mitigated by a regular cleaning method and check-ups data healthy.
+
+I have attached the code in python.
+Any prob, call me back.
+
+Cheers!
+Ingrid Cadu
