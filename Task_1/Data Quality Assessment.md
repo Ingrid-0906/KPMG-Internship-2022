@@ -27,7 +27,7 @@ Draft an email to the client identifying the data quality issues and strategies 
 To start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data taking as an example the Data Quality Framework Table already used as a model that my team may use to evaluate a dataset:
 
 - Accuracy -> Correct Values
-- Completeness -> Data Fileds with values
+- Completeness -> Data Fields with values
 - Consistency -> Values free from contradictions
 - Currency -> Values up to date
 - Relevancy -> Data Items with Value Meta-Data
