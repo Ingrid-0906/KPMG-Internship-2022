@@ -6,14 +6,14 @@ The model work replicates real work done by the team at KPMG.
 
 
 # Content
-#### Data Quality Assessment
+#### Task 1 - Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis
 
 _Practical skills you will gain from working on this module:_
 - Data Quality Analysis
 - Analytical Dashboard Creation
 
-#### Data Insights
+#### Task 2 - Data Insights
 Targeting high value customers based on customer demographics and attributes.
 
 _Practical skills you will gain from working on this module:_
@@ -21,7 +21,7 @@ _Practical skills you will gain from working on this module:_
 - Customer Segmentation
 - Data Driven Presentations
 
-#### Data Insights and Presentation
+#### Task 3 - Data Insights and Presentation
 Using visualisations to present insights
 
 _Practical skills you will gain from working on this module:_
