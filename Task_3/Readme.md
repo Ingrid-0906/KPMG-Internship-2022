@@ -1,15 +1,16 @@
-### Background**<br>
+## Overview
 
 The client is happy with the analysis plan and would like us to proceed. After building the model we need to present our results back to the client. 
 Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. 
 A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations.<br>
 
+
+## Task
 Please develop a _dashboard_ that we can present to the client at our next meeting.<br>
 Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).<br>
 Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
 
 As this is not a KPMG branded deliverable, please find attached a client logo for incorporation.
-
 
 It is important to keep in mind the business context when presenting your findings:
 
