@@ -1,0 +1,9 @@
+state,name,lat,long,rode_past_week_commuting,rode_past_week_education,without_working_bike,recreation,transport,Comfortable_area,participation_month,participation_year,total
+NWS,New South Wales,-31.840233,145.612793,10.9,2.5,48,88,19,49,-2.9,-0.9,1088
+ACT,Australian Capital Territory,-35.473469,149.012375,13,25,33,69,43,84,0,0,994
+NT,Northern Territory,-19.491411,132.550964,15.2,15.4,30,76,36,75,-1.5,0.2,730
+QLD,Queensland,-20.917574,142.702789,4,19.6,43.5,75,40,66,3.4,4.2,1176
+SA,South Australia,-30.000233,136.209152,9.3,12.2,49.5,81,30,55,-0.4,-2.7,1101
+TAS,Tasmania,0,0,7,3,46,86,17,56,-1.0,-3.4,1252
+VIC,Victoria,-37.020100,144.964600,10.4,11.5,41,76,34,55,-3.6,-5.0,1319
+WA,Western Australia,-25.042261,117.793221,9,16.7,38.9,85,35,57,-13.1,-9.4,1070
